@@ -13,3 +13,5 @@ footer a{color:#252525}.options{background:#faf8f1ee}
 @media(max-width:380px){.brand{gap:6px}.brand img{width:34px;height:44px}.brand span{font-size:17px}}
 
 .copyright{font-size:14px;line-height:1.8;margin:20px 0 0}.copyright span{display:block;font-size:14px}
+
+.original-menu{display:block;width:100%;height:auto;margin-top:18px}
